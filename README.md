@@ -1,26 +1,33 @@
 #Hello Microverse
+<br>
 ##Hello Microverse project
-
+<br>
 Built With
-Webhint
-Styleint
+<br>
+<ul>
+    <li>Webhint</li>
+    <li>Styleint </li>
+    <li>HTML5</li>
+    <LI>CSS3</LI>
+</ul>
 
-Technologies used
-HTML5
-CSS3
 
-Authors
-👤 Author1
+<h2><Authors/h2>
+<p>👤 Author1</p>
 
-GitHub: @andreacostabz
-Twitter: @andrebze
-LinkedIn: Andre Acosta
+<ul>
+   <li>GitHub: @andreacostabz</li> 
+    <li>Twitter: @andrebze</li>
+   <li>inkedIn: Andre Acosta</li>
+</ul>
 
-🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+<h3>🤝 Contributing</h3>
+
+<p>Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
 Show your support
 Give a ⭐️ if you like this project!
+</p>
