@@ -1,8 +1,8 @@
-#Hello Microverse
+<h1>Hello Microverse</h1>
 <br>
-##Hello Microverse project
+<h2>Hello Microverse project</h2>
 <br>
-Built With
+<h3>Built With</h3>
 <br>
 <ul>
     <li>Webhint</li>
@@ -18,7 +18,7 @@ Built With
 <ul>
    <li>GitHub: @andreacostabz</li> 
     <li>Twitter: @andrebze</li>
-   <li>inkedIn: Andre Acosta</li>
+   <li>LinkedIn: Andre Acosta</li>
 </ul>
 
 
