@@ -1,3 +1,4 @@
+<html>
 <h1>Hello Microverse</h1>
 <br>
 <h2>Hello Microverse project</h2>
@@ -31,3 +32,4 @@ Feel free to check the issues page.
 Show your support
 Give a ⭐️ if you like this project!
 </p>
+</html>
