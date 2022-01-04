@@ -1,21 +1,26 @@
-# hello-microverse
+#Hello Microverse
+##Hello Microverse project
 
-## This project is to help me develop a mastery over Github tools and best practices.
+Built With
+Webhint
+Styleint
 
-# Primary Languages used in this project :
-
+Technologies used
 HTML5
 CSS3
 
-## If you like my project PLEASE let me know bt leaving me a comment!
-
+Authors
 👤 Author1
 
 GitHub: @andreacostabz
 Twitter: @andrebze
 LinkedIn: Andre Acosta
 
-Acknowledgments 
+🤝 Contributing
 
-Linters : Microverse
-Inspiration : Microverse 
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+Show your support
+Give a ⭐️ if you like this project!
